@@ -20,7 +20,7 @@ Equations that rule this gearbox:
 
 #Welcome and instructions:
 print('''************************************************
-*   Differential planetary gearbox calculator   *
+*   Differential planetary gearbox calculator  *
 *      By Juan Gg                              *
 ************************************************''')
 #Input parameters:
