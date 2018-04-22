@@ -2,7 +2,7 @@
 This program is intended to generate teeth combinations for
 differential planetary gearboxes with sun1 as input, ring1 fixed and 
 ring2 as output. For more information visit:
-https://juanggengineering.blogspot.ca/2018/02/split-ring-compound-epicyclicplanetary.html
+https://juangg-projects.blogspot.ca/2018/02/split-ring-compound-epicyclicplanetary.html
 It just tries a bunch of possible combiantions and prints the closest
 ones within the parameters and restrictions specified.
 Use it at your own risk.
